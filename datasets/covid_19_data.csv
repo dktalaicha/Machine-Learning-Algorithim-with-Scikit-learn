@@ -1,0 +1,11 @@
+id,province_state,country,date,confirmed_cases,fatalities
+11235,Denmark,Denmark,2020-03-24,1591,32
+11236,Denmark,Denmark,2020-03-25,1724,34
+11237,Denmark,Denmark,2020-03-26,1877,41
+11238,Denmark,Denmark,2020-03-27,2046,52
+11239,Denmark,Denmark,2020-03-28,2201,65
+11240,Denmark,Denmark,2020-03-29,2395,72
+11241,Denmark,Denmark,2020-03-30,2577,77
+11242,Denmark,Denmark,2020-03-31,2860,90
+11243,Denmark,Denmark,2020-04-01,3107,104
+11244,Denmark,Denmark,2020-04-02,3386,123
